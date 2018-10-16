@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=ViPER4Android-v2.6.0.x
+name=ViPER4Android FX (v2.6.0.x)
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Sicco den Otter
+description=ViPER4Android v2.6.0.x (incl. driver)
 minMagisk=17000
