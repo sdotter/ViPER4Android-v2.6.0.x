@@ -21,7 +21,7 @@ magiskpolicy --live "allow hal_audio_default hal_audio_default process execmem"
 magiskpolicy --live "allow hal_audio_default audio_data_file dir search"
 
 # Fix everything on boot...
-am start -a android.intent.action.MAIN -n com.pittvandewitt.viperfx/.StartActivity 
+am start -a android.intent.action.MAIN -n com.pittvandewitt.viperfx/.StartActivity
 killall com.pittvandewitt.viperfx
 killall audioserver
 killall mediaserver

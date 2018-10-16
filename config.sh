@@ -25,7 +25,7 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=true
+PROPFILE=false
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -187,7 +187,7 @@ installV4A() {
 	mkdir -p $MODPATH/system/vendor/lib/soundfx 2>/dev/null
 
 	# copy app
-	ui_print "- Installing V4A v2.6.0.6"
+	ui_print "- Installing V4A v2.6.0.x"
 	cp -af $APK $MODPATH/system/app/ViPER4AndroidFX/ViPER4AndroidFX.apk
 
 	# modify configurations

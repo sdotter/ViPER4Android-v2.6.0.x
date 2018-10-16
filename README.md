@@ -11,7 +11,7 @@ Customized by: Sicco den Otter
 
 ## Module changelog
 * 16-10-2018 - Initial commit
-	* ViPER4Android v2.6.0.5 using 2.5.0.4 driver
+	* ViPER4Android v2.6.0.x using 2.5.0.4 driver
 	
 ## Credits
 * [Team_DeWitt](https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651) @ XDA Developers
